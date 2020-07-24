@@ -1,6 +1,3 @@
 this is a one.txt.
-abc
-<<<<<<< HEAD
-xyz
-=======
->>>>>>> 5729bd88f9980753f33a24078169c27e29bcc63d
+this is a secnd chances.
+hello wolrd
